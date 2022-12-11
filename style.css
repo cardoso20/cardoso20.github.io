@@ -33,7 +33,7 @@ header {
 }
 
 header .navbar-nav {
-    font-size: 20;
+    font-size: 20px;
 }
 
 header .nav-item {
@@ -49,11 +49,11 @@ header .nav-item {
 .title {
     display: inline;
     font-family: CabinSketch;
-    font-size: 120;
+    font-size: 120px;
 }
 
 .title {
-    font-size: 80;
+    font-size: 80px;
     cursor: pointer;
 }
 
@@ -98,7 +98,7 @@ a:visited {
     align-items: center;
     justify-content: space-evenly;
     height: 100%;
-    font-size: 25;
+    font-size: 25px;
 }
 
 .nav-item {
@@ -167,7 +167,7 @@ div.desc {
 
 #about {
     padding: 5rem;
-    font-size: 25;
+    font-size: 25px;
     position: absolute;
 }
 
